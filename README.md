@@ -2,6 +2,8 @@
 
 <p align="center">Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tacnologias WEB.</p>
 
+<br>
+
 <h2>Tecnologias</h2>
 
 - HTML e CSS
